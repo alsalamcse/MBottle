@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MBottle</string>
+    <string name="title_activity_add_bottle">addBottle</string>
 </resources>
